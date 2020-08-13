@@ -1,0 +1,7 @@
+.title button{
+    line-height: 12px;
+}
+label.errors{
+    color: red !important;
+    font-weight: 100 !important;
+}
